@@ -1,0 +1,29 @@
+* {
+    background-color: dimgray;
+}
+
+     nav ul li {
+        display: center;
+        padding-top: 15px;
+        margin-right: 30px;
+        font-family: 'Oswald', 'Open Sans', sans-serif;
+        font-size: 25px;
+        padding: 50px 50px 20px 20px;
+        margin: 50px 50px 50px 0px;
+        background-color: rgb(25, 70, 25);
+        font-weight: bolder;
+        color: dimgray;
+}
+
+div img {
+    display: inline-block;
+    text-align: center;
+
+}
+
+.profile-image {
+  width: 400px;
+  height: 500px;
+  border-radius: 60%;
+  text-align: center;
+}
