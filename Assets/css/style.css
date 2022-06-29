@@ -16,7 +16,7 @@
 }
 
 div img {
-    display: inline-block;
+    display: flex;
     text-align: center;
 
 }
@@ -25,5 +25,5 @@ div img {
   width: 400px;
   height: 500px;
   border-radius: 60%;
-  text-align: center;
+  margin: auto;
 }
