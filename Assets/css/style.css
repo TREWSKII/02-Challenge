@@ -9,7 +9,7 @@ body {
 }
 
 header {
-  background: rgb(72, 93, 30);
+  background: rgb(58, 74, 27);
 }
 
 nav {
@@ -38,8 +38,7 @@ a:hover{
 .profile-image {
   /* width: 400px; */
   height: 250px;
-  border-radius: 60%;
-  margin: 0;
+  border-radius: 50%;
 }
 
 main {
@@ -58,18 +57,22 @@ section {
 
 /* link section */
 
-.links{
+.links {
   display: flex;
   padding: 15px 0;
   justify-content: center;
   align-items: center;
 }
 
-.links a{
+.links a {
   padding: 10px;
 }
 
 
-.icon{
+.icon {
   height: 40px;
+}
+
+.links:hover {
+  background-color:rgb(58, 74, 27);
 }
