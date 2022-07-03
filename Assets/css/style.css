@@ -28,6 +28,11 @@ a:hover{
   color: purple
 }
 
+.placeholder {
+  display: flex;
+  margin: 50px;
+  height: 400px;
+}
 
 
 .hero {
