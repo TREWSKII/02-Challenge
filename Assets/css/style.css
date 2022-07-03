@@ -29,6 +29,7 @@ a:hover{
 }
 
 
+
 .hero {
   display: flex;
   justify-content: space-around;
@@ -50,7 +51,7 @@ main {
 section {
   text-align: center;
   border: 2px solid black;
-  margin-top: 10px;
+  margin-top: 50px;
 
 }
  section:hover {
